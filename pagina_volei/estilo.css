@@ -1,0 +1,64 @@
+#historia {
+    color: blue;
+    text-align: justify;
+    font-size: x-large;
+
+}
+
+#inicio {
+    text-align: justify;
+    font-size: x-large;
+    color: blue;
+}
+
+.fundacao {
+    color: blue;
+    text-align: justify;
+    font-size: larger;
+}
+
+.final {
+    color: blue;
+    text-align: justify;
+    font-size: x-large;
+
+}
+
+h1 {
+    text-align: justify;
+    text-align: center;
+    color: black
+    
+}
+
+h2 {
+    font-size: x-large;
+    text-align: justify;
+    
+}
+
+p {
+    text-align: justify;
+    font-size: x-large;
+
+
+}
+
+#foto1 {
+    text-align: center;
+
+}
+
+#foto2 {
+    text-align: center;
+}
+
+ol, ul, dl {
+    font-size: x-large;
+    text-align: justify;
+    color: blue;
+}
+
+body {
+    background-color: antiquewhite;
+}

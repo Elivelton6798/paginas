@@ -1,0 +1,25 @@
+.menu {
+    position: absolute;
+    display: block;
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+.menu li {
+    position: relative;
+    font-size: 25px;
+    float: left;
+    top: auto;
+    margin-left: 20px;
+    margin-right: 50px;
+    background-color: aqua;
+   
+
+}
+
+body {
+
+    background-color: antiquewhite;
+}
