@@ -1,0 +1,41 @@
+nav#menu ul {
+	list-style: none;
+	text-transform: uppercase;
+	position: absolute;
+	top: -10px;
+    text-align: left;
+
+}
+
+/*Configuracao de menu*/
+nav#menu li {
+	display: inline-block;
+	background-color:white;
+	padding: 15px;
+	margin: 5px;
+    text-align: center;
+	
+}
+
+nav#menu {
+	display: block;
+	background-color: red;
+	
+	
+}
+nav#menu li:hover{
+	background-color: yellow;
+	color: red;
+	position: relative;
+	text-decoration: underline;
+	
+}
+nav#menu h1 {
+	display: none;
+	
+
+}
+body {
+
+    background-color: antiquewhite;
+}

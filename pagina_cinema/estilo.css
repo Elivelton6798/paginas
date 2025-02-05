@@ -1,0 +1,42 @@
+.menu {
+    position: absolute;
+    display: block;
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+.menu li{
+    position: relative;
+    font-size: 25px;
+    float: left;
+    top: auto;
+    margin-left: 20px;
+    margin-right: 50px;
+    background-color: aqua;
+   
+
+}
+
+body{
+    color:black;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: antiquewhite;
+}
+
+h1{
+    color: black;
+
+}
+h2{
+    color: blue;
+}
+
+p{
+    text-align: center;
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
