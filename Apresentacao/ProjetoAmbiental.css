@@ -1,0 +1,140 @@
+#body-home {
+    background-color: #cfcf95;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header .botao-login {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #bbba77;
+    color: black;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+/* Cabeçalho */
+header h1 {
+    text-align: center;
+    color:black;
+    margin-top: 10px;
+}
+
+.botao-voltar:hover {
+    background-color: #1a6e1a;
+}
+.button-css{
+    background-color: #bbba77;
+    color: black;
+    border: none;
+    width: 100%;
+    padding: 15px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: navajowhite;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: black;
+
+}
+#inicio p {
+    text-align: center;
+}
+.navbar {
+    background-color: #bbba77;
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar a {
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.section {
+    margin: 30px;
+    padding: 20px;
+    background-color: #f0f0d8;
+    border-radius: 8px;
+}
+.section p, .section li {
+    font-size: 16px;
+    line-height: 1.6; 
+}
+
+.section h3 {
+    font-size: 20px;
+}
+
+.container-plantas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.planta {
+    margin: 15px;
+    text-align: center;
+    max-width: 300px;
+}
+
+.planta img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+.button-css {
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    background-color: #228b22;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    width: fit-content; 
+}
+
+.botao-voltar-topo:hover {
+    background-color: #1a6e1a;
+}
+.botao-fale-conosco {
+    display: inline-block;
+    background-color: #228b22; 
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.2s;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.botao-fale-conosco:hover {
+    background-color: #1a6e1a; 
+}
+
+
+footer {
+    background-color: #bbba77;
+    color: rgb(2, 1, 1);
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
